@@ -1,6 +1,6 @@
 <h1 align="left">Hello there! I'm Camilla!</h1>
 
-<p>Hi there! My name is Camilla, I'm 20 years old, living in Brazil and a full-stack developer.</p>
+<p>Hi there! My name is Camilla, I'm 21 years old, living in Brazil, Software Enginneer Fullstack developer.</p>
 
 <hr/>
 
