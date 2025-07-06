@@ -14,17 +14,13 @@
 ### 🔗 `×` Languages and Tools:
 
   <p align="left">
-    <a href="https://skillicons.dev"">
-      <img src='https://skillicons.dev/icons?i=ts,js,nodejs,py,java,c,cs,html,css,nextjs,react,flutter,mongodb,mysql' style="height: 40px;">
-    </a>
+    <img src='https://skillicons.dev/icons?i=ts,js,nodejs,py,java,c,cs,html,css,nextjs,react,flutter,mongodb,mysql' style="height: 40px;">
   </p>
 
 ### 💻 `×` Softwares:
 
   <p align="left">
-    <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=visualstudio,vscode,ps,notion,obsidian,figma' style="height: 40px;"/>
-    </a>
+    <img src='https://skillicons.dev/icons?i=visualstudio,vscode,ps,notion,obsidian,figma' style="height: 40px;"/>
   </p>
   <hr/>
   <br>
