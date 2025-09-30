@@ -8,6 +8,7 @@
 
 - [Kazami Bot](https://kazami.xyz/)
 - [IdealBus](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385100-dificuldade-em-mobilidade-urbana)
+- [Therere](https://github.com/The-Rere)
   
 <hr/>
 
